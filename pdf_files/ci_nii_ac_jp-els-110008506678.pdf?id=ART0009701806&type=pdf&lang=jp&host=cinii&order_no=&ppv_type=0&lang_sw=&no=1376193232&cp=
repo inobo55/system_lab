@@ -1,0 +1,985 @@
+
+ 
+
+
+
+
+
+
+
+
+ 	
+			
+			
+	
+	
+	
+	
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" itemscope itemtype="http://schema.org/Article">
+
+
+<head profile="http://www.w3.org/2003/g/data-view">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	
+	
+	<meta name="citation_journal_title" content="日本教育工学会論文誌" />
+	
+	<meta name="citation_publisher" content="日本教育工学会" />
+	
+	<meta name="citation_authors" content="野寺,綾;中村,信次;佐藤,慎一" />
+	
+	<meta name="citation_title" content="海外研修における学内SNSのコミュニティ機能の活用が学習動機に及ぼす影響" />
+	
+	<meta name="citation_date" content="12/20/2010" />
+	
+	<meta name="citation_volume" content="34" />
+	
+	
+	
+	<meta name="citation_firstpage" content="57" />
+	
+	
+	
+	<meta name="citation_lastpage" content="60" />
+	
+	
+	<meta name="citation_abstract_html_url" content="http://ci.nii.ac.jp/naid/110008506678" />
+	
+	
+	<meta name="citation_issn" content="13498290" />
+	
+	
+	<meta name="citation_keywords" content="学習動機;SNS;海外研修;大学教育;授業実践" />
+	
+	
+	
+	
+	<meta property="og:title" content="CiNii 論文 - 海外研修における学内SNSのコミュニティ機能の活用が学習動機に及ぼす影響" />
+	
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://ci.nii.ac.jp/naid/110008506678" />
+	
+	
+	<meta property="og:image" content="http://ci.nii.ac.jp/pdfthumbnail/11/1100/110008/110008506678.jpg" />
+	
+	<meta property="og:site_name" content="CiNii Articles" />
+	<meta property="fb:admins" content="701886930" />
+	
+	
+	<meta itemprop="name" content="CiNii 論文 - 海外研修における学内SNSのコミュニティ機能の活用が学習動機に及ぼす影響" />
+	
+	<meta itemprop="description" content="本研究の目的は,海外研修の際に学内SNSを活用することが,研修に参加した学生の学習動機に与える影響を検討することである.学内SNSのコミュニティ機能を使って研修に関する情報交換を行うよう学生を促し,渡航前から帰国後までのコミュニティへのアクセスログを記録した.また海外渡航の前後に,何のために大学で学ぶのかという学習の目的を尋ねる質問紙を実施し,これを学習動機の測定とした.その結果,研修に際して学内SNSを高頻度で活用した者は,低頻度活用者や未使用者に比べて,帰国後に実践的な知識の習得を志向するような学習動機が高くなっていることが示された." />
+	
+	<meta itemprop="image" content="http://ci.nii.ac.jp/pdfthumbnail/11/1100/110008/110008506678.jpg" />
+	
+	
+	
+	<link href="/style/cinii.css?STYLE02V14" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+	<title>CiNii 論文&nbsp;-&nbsp;
+ 		
+	 		海外研修における学内SNSのコミュニティ機能の活用が学習動機に及ぼす影響
+ 		
+ 		
+ 	</title>
+	<link rel="meta" type="application/rdf+xml" title="RDF" href="http://ci.nii.ac.jp/naid/110008506678.rdf" />
+	<link rel="search" type="application/opensearchdescription+xml" title="CiNii" href="http://ci.nii.ac.jp/opensearch/description.xml" />
+	<link rel="search" type="application/opensearchdescription+xml" title="CiNii Author" href="http://ci.nii.ac.jp/opensearch/author.xml" />
+	<link rel="canonical" href="http://ci.nii.ac.jp/naid/110008506678" />
+	
+	<script type="text/javascript" src="/js/cinii.js?JS01V130"></script>
+	<script type="text/javascript" src="/js/searchbox_disclosure.js?JS03V11"></script>
+	<script type="text/javascript" src="/js/modetab.js?JS04V13"></script>
+</head>
+<body id="viewer"  class="with_sidenavi">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header">
+
+	<p id="header_sysname"><a href="/" id="system_ci_jp" class="headerlogo">CiNii 国立情報学研究所 学術情報ナビゲータ[サイニィ]</a></p>
+
+	
+	<ul id="header_link_jsng" class="article-book-switch">
+		<li><a href="/" class="current">日本の論文をさがす</a></li>
+		<li><a href="/books/?l=ja">大学図書館の本をさがす</a></li>
+	</ul>
+	<ul id="header_link_jsok" class="article-book-switch" style="display:none;">
+		<li><a href="/" class="current">日本の論文をさがす</a></li>
+		<li><a href="javascript:void(0)" onclick="return doBooksSearch();">大学図書館の本をさがす</a></li>
+	</ul>
+	<script type="text/javascript">
+		document.getElementById("header_link_jsng").style.display = "none";
+		document.getElementById("header_link_jsok").style.display = "block";
+	</script>
+	
+
+	<!--ユーティリティリンク・ユーザー情報-->
+	<div id="utilitylink" class="clearfix">
+	
+	
+	
+	
+	
+		<ul class="functionlink">
+		<li><a href="https://register-ci.nii.ac.jp/userregist/userTypeSel.do?lang=ja">新規登録</a></li>
+		<li><a href="https://register-ci.nii.ac.jp/auth/action/login?contentsServer=CINII">ログイン</a></li>
+	
+		<li><a href="/naid/110008506678/en/" onclick="return detailpaging('/naid/110008506678/en/');">English</a></li>
+	</ul>
+	</div>
+	<!--end of div#utilitylink-->
+</div>
+<!--end of div#header-->
+
+<div id="body-wrap" class="clearfix">
+
+<div id="servicestop_information">
+        <ul>
+                <li>
+	<a href="http://ci.nii.ac.jp/info/ja/index_2013.html#20130807">システムメンテナンスに伴うCiNiiサービスの停止について（2013年8月8日（木） 午前9時から9時30分、2013年8月15日（木）午前3時45分から5時の間に10分間程度）</a>
+	</li>
+        </ul>
+</div>
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+<div id="searchbox">
+
+<div class="searchboxheader clearfix">
+<script type="text/javascript">
+//<![CDATA[
+var tabIndexSource = "<div id=\"tab_index\"><ul id=\"tab_index_ul\"><li class=\"active\" id=\"tab_art\"><a href=\"javascript:void(0);\" id=\"tab_art_a\" onclick=\"modeTab('article_search' , 'tab_art');\">論文検索<\/a><\/li><li class=\"inactive\" id=\"tab_aut\"><a href=\"javascript:void(0);\" id=\"tab_aut_a\" onclick=\"modeTab('author_search' , 'tab_aut');\">著者検索<\/a><\/li><li class=\"inactive\" id=\"tab_full\"><a href=\"javascript:void(0);\" id=\"tab_full_a\" onclick=\"modeTab('fulltext_search' , 'tab_full');\">全文検索 (beta)<\/a><\/li><\/ul><\/div><div class=\"floatclear\"><hr \/><\/div>";
+	document.write(tabIndexSource);
+//]]>
+</script>
+
+
+<div id="books_link_jsng" class="othersearch-link">
+	<p><a href="/books/?l=ja">大学図書館の本をさがす &raquo;</a></p>
+</div>
+<div id="books_link_jsok" class="othersearch-link" style="display:none;">
+	<p><a href="javascript:void(0)" onclick="return doBooksSearch();">大学図書館の本をさがす &raquo;</a></p>
+</div>
+<script type="text/javascript">
+	document.getElementById("books_link_jsng").style.display = "none";
+	document.getElementById("books_link_jsok").style.display = "block";
+</script>
+
+
+</div><!--end of .searchboxheader-->
+<form id="searchform" name="searchform" action="/search" method="get" onsubmit="return false;">
+	<div id="article_search">
+		<div id="article_form">
+
+		<div id="freeword_searchbtn">
+			<div id="validation_error" class="validation_error" style="display:none"></div>
+			<input type="text" name="q" class="main_srchterm" id="freetextbox" onkeypress="return deleteCoordinatesByKey();" value="" style="color: #000000;" onblur="if(this.value==''){this.style.color='#999999'; this.value=''}" onfocus="if(this.value==''){this.style.color='#000000'; this.value = ''}" />
+			<button class="searchbtn srchbtn-normal srchbtn-art-nrm" id="art_srchbtn_nrml" onclick="return dosearch();"><span>検索</span></button>
+		</div>
+		<!--end of div#freeword_searchbtn-->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var switchLinkSource = "<p id=\"switchlink\"><a id=\"trigger\" href=\"javascript:void(0);\" onclick=\"searchBoxDisclosure();\">詳細検索<\/a><\/p>";
+			document.write(switchLinkSource);
+		//]]>
+		</script>
+
+		<div id="art_normal_search">
+		<div class="filter_radiobtnbox" id="filter_radiobtnboxnormal">
+		<p>
+ 		<input type="radio" name="range" value="0" id="filter_all_normal"/><label for="filter_all_normal">すべて</label><input type="radio" name="range" value="1" id="filter_fulltext_normal"/><label for="filter_fulltext_normal">CiNiiに本文あり</label><input type="radio" name="range" value="2" id="filter_otherservice_normal"/><label for="filter_otherservice_normal">CiNiiに本文あり、または連携サービスへのリンクあり</label>
+		</p>
+		</div>
+		</div>
+
+		<div id="art_advanced_search">
+		<table class="advserach">
+		<tr>
+		<td class="advlabel advlabel-left"><label for="sopt1">論文名</label></td>
+		<td class="advinput"><input type="text" name="title" id="sopt1" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		</tr>
+		</table>
+		<table class="advserach">
+		<tr>
+		<td class="advlabel advlabel-left"><label for="sopt2">著者名</label></td>
+		<td class="advinput">
+		<input type="text" name="author" id="sopt2" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" />
+		</td>
+		<td class="advlabel advlabel-center"><label for="sopt3">著者所属</label></td>
+		<td class="advinput"><input type="text" name="affiliation" id="sopt3" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-right"><label for="sopt4">刊行物名</label></td>
+		<td class="advinput"><input type="text" name="journal" id="sopt4" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		</tr>
+		</table>
+		<table class="advserach">
+		<tr>
+		<td class="advlabel advlabel-left"><label for="sopt5">ISSN</label></td>
+		<td class="advinput"><input type="text" name="issn" id="sopt5" class="advsrchtextbox" maxlength="16" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-center"><label for="sopt6">巻</label></td>
+		<td class="advinput issue_input"><input type="text" name="volume" id="sopt6" class="advsrchtextbox" maxlength="9" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-vol"><label for="sopt7">号</label></td>
+		<td class="advinput vol_input"><input type="text" name="issue" id="sopt7" class="advsrchtextbox" maxlength="9" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-vol"><label for="sopt8">ページ</label></td>
+		<td class="advinput page_input"><input type="text" name="page" id="sopt8" class="advsrchtextbox" maxlength="19" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		</tr>
+		</table>
+		<table class="advserach">
+		<tr>
+		<td class="advlabel advlabel-left"><label for="sopt9">出版者</label></td>
+		<td class="advinput"><input type="text" name="publisher" id="sopt9" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-center"><label for="sopt10">参考文献</label></td>
+		<td class="advinput"><input type="text" name="references" id="sopt10" class="advsrchtextbox" onkeypress="return deleteCoordinatesByKey();" value="" /></td>
+		<td class="advlabel advlabel-right"><label for="sopt11">出版年</label></td>
+		<td class="advinput publicyear_input"><input type="text" name="year_from" id="sopt11" class="publication_year" onkeypress="return deleteCoordinatesByKey();" maxlength="4" value="" /><span>年から</span><input type="text" name="year_to" id="sopt12"  class="publication_year" maxlength="4" onkeypress="return deleteCoordinatesByKey();" value="" /><span>年まで</span></td>
+		</tr>
+		</table>
+		<div class="filter_radiobtnbox">
+		<p>
+		<input type="radio" name="range" value="0" id="filter_all_advanced" checked="checked" /><label for="filter_all_advanced">すべて</label>
+		<input type="radio" name="range" value="1" id="filter_fulltext_advanced"  /><label for="filter_fulltext_advanced">CiNiiに本文あり</label>
+		<input type="radio" name="range" value="2" id="filter_otherservice_advanced"  /><label for="filter_otherservice_advanced">CiNiiに本文あり、または連携サービスへのリンクあり</label>
+
+		</p>
+		</div>
+		<!-- end of div#filter_radiobtn -->
+
+		<div class="art_adv_search_btn">
+		<button class="searchbtn srchbtn-advanced srchbtn-art-adv" id="art_srchbtn_adv" onclick="return dosearch();"><span>論文検索</span></button>
+		</div>
+		</div>
+		<!-- end of div#art_advanced_search -->
+
+		</div>
+		<!--end of div#article_form-->
+	</div>
+	<!--end of div#article_search-->
+	<input type="hidden" name="count" />
+	<input type="hidden" name="sortorder" />
+	<input type="hidden" name="type" value="0" />
+</form>
+<form id="authorsearchform" name="authorsearchform" action="/author" method="get" onsubmit="return false;">
+	<div id="author_search">
+		<div id="author_form">
+		<div id="author_searchbtn">
+			<div id="author_validation_error" class="validation_error" style="display:none"></div>
+			<input type="text" name="q" class="main_srchterm" id="authname_textbox" onkeypress="return deleteCoordinatesByKeyAuthor();" value="" style="color: #000000;" onblur="if(this.value==''){this.style.color='#999999'; this.value=''}" onfocus="if(this.value==''){this.style.color='#000000'; this.value = ''}" />
+			<button class="searchbtn srchbtn-normal srchbtn-aut-nrm" id="aut_srchbtn_nrml" onclick="return doauthorsearch();"><span>著者検索</span></button>
+		</div>
+		<!--end of div#author_searchbtn-->
+		</div>
+		<!--end of div#author_form-->
+	</div>
+	<!--end of div#author_search-->
+
+	<div class="floatclear"><hr /></div>
+
+	<input type="hidden" name="count" />
+	<input type="hidden" name="sortorder" />
+</form>
+<form id="fulltextsearchform" name="fulltextsearchform" action="/fulltext" method="get" onsubmit="return false;">
+	<div id="fulltext_search">
+		<div id="fulltext_form">
+		<div id="freeword_searchbtn">
+			<div id="fulltext_validation_error" class="validation_error" style="display:none"></div>
+			<input type="text" name="q" class="main_srchterm" id="freetextbox-full" onkeypress="return deleteCoordinatesByKeyFullText();" value="" style="color: #000000;" onblur="if(this.value==''){this.style.color='#999999'; this.value=''}" onfocus="if(this.value==''){this.style.color='#000000'; this.value = ''}" />
+			<button class="searchbtn srchbtn-normal srchbtn-full-nrm" id="full_srchbtn_nrml" onclick="return dofulltextsearch();"><span>論文検索</span></button>
+		</div>
+		<!--end of div#freeword_searchbtn-->
+		</div>
+		<!--end of div#fulltext_form-->
+	</div>
+	<!--end of div#fulltext_search-->
+
+	<input type="hidden" name="count" />
+	<input type="hidden" name="sortorder" />
+</form>
+
+<script type="text/javascript">
+//<![CDATA[
+//--This function is to set the initial view of the search box, opened or closed.--
+//--So please change the boolean argument dynamically as the situation demands.--
+//--FALSE is to be closed. TRUE is to be opened.--
+window.onload = function(){
+	if("" == document.searchform.q.value || document.searchform.q.value == ""){
+	    document.searchform.q.style.color = "#999999";
+		document.searchform.q.value = "";
+	}
+	if("" != document.searchform.q.value) {
+	    document.searchform.q.style.color = "#000000";
+	}
+
+	if("" == document.authorsearchform.q.value || document.authorsearchform.q.value == ""){
+	    document.authorsearchform.q.style.color = "#999999";
+		document.authorsearchform.q.value = "";
+	}
+	if("" != document.authorsearchform.q.value) {
+	    document.authorsearchform.q.style.color = "#000000";
+	}
+	if("" == document.fulltextsearchform.q.value || document.fulltextsearchform.q.value == ""){
+	    document.fulltextsearchform.q.style.color = "#999999";
+		document.fulltextsearchform.q.value = "";
+	}
+	if("" != document.fulltextsearchform.q.value) {
+	    document.fulltextsearchform.q.style.color = "#000000";
+	}
+}
+
+initialOpening(haveSearchBox(document.searchform));
+checkSync();
+
+//]]>
+
+//<![CDATA[
+//--This function is to set the initial view of the search box, article search or author search or fulltext search.--
+//--So please change 'article' or 'author' dynamically as the situation demands.--
+	initialMode('article');
+//]]>
+</script>
+
+</div>
+<!-- end of div#searchbox -->
+
+	<div class="hfeed hentry">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="itemheading">
+	<div id="paperdata">
+		<h1 class="paper_class entry-title">
+		
+			<span>海外研修における学内SNSのコミュニティ機能の活用が学習動機に及ぼす影響</span>
+		
+		
+		
+			<span>The Effect of Using Communities in University's SNS through an Overseas Study Tour on Motivation to Learn</span>
+		
+		
+		</h1>
+		<div id="authors">
+		<ul>
+		
+			
+			<li class="authorslist">
+				<div class="authordata author vcard">
+				<ul><li>
+				
+					
+					
+					<a href="/author?q=%E9%87%8E%E5%AF%BA+%E7%B6%BE" onclick="return linkUrlLengthCheck('/author?q=%E9%87%8E%E5%AF%BA+%E7%B6%BE');">
+					
+				
+				
+				
+					
+					
+					<span class="authorname fn">野寺 綾</span>
+					
+				
+				
+					
+					
+					<span class="fn">NODERA Aya</span>
+					
+				
+				</a></li>
+				<li class="authoraffiliation">
+				
+					<span class="org">日本福祉大学</span>
+				
+				
+					<span class="org">Nihon Fukushi University</span>
+				
+				</li>
+				</ul>
+				</div>
+			</li>
+			
+		
+			
+			<li class="authorslist">
+				<div class="authordata author vcard">
+				<ul><li>
+				
+					
+					
+					<a href="/author?q=%E4%B8%AD%E6%9D%91+%E4%BF%A1%E6%AC%A1" onclick="return linkUrlLengthCheck('/author?q=%E4%B8%AD%E6%9D%91+%E4%BF%A1%E6%AC%A1');">
+					
+				
+				
+				
+					
+					
+					<span class="authorname fn">中村 信次</span>
+					
+				
+				
+					
+					
+					<span class="fn">NAKAMURA Shinji</span>
+					
+				
+				</a></li>
+				<li class="authoraffiliation">
+				
+					<span class="org">日本福祉大学</span>
+				
+				
+					<span class="org">Nihon Fukushi University</span>
+				
+				</li>
+				</ul>
+				</div>
+			</li>
+			
+		
+			
+			<li class="authorslist">
+				<div class="authordata author vcard">
+				<ul><li>
+				
+					
+					
+					<a href="/author?q=%E4%BD%90%E8%97%A4+%E6%85%8E%E4%B8%80" onclick="return linkUrlLengthCheck('/author?q=%E4%BD%90%E8%97%A4+%E6%85%8E%E4%B8%80');">
+					
+				
+				
+				
+					
+					
+					<span class="authorname fn">佐藤 慎一</span>
+					
+				
+				
+					
+					
+					<span class="fn">SATO Shin-ichi</span>
+					
+				
+				</a></li>
+				<li class="authoraffiliation">
+				
+					<span class="org">日本福祉大学</span>
+				
+				
+					<span class="org">Nihon Fukushi University</span>
+				
+				</li>
+				</ul>
+				</div>
+			</li>
+			
+		
+		</ul>
+		</div>
+		
+
+		<div id="numofrelateditem">
+		
+			<ul>
+		
+		
+			<li class="referencelink"><a href="#ref">参考文献: 7件</a></li>
+		
+		
+		
+			</ul>
+		
+		</div>
+		
+	</div>
+	
+</div>
+
+
+<div id="content">
+	<div id="itemdatatext">
+		
+		<div class="sectionofdata" id="read_srch_fulltext">
+			<h2>この論文を読む／探す</h2>
+			<div id="externallink">
+				<ul>
+					
+						
+							
+							
+							
+							
+								<li class="ciniipdf" style="background:transparent url('/images/exbanner-ciniipdf.png') left  no-repeat;"><a href="/lognavi?name=nels&amp;lang=jp&amp;type=pdf&amp;id=ART0009701806">CiNii 論文PDF - オープンアクセス</a></li>
+							
+							
+							
+						
+						
+					
+					
+					
+					
+					
+					
+					
+						
+					
+					
+					
+						<li class="ndlopac" style="background:transparent url('/images/ndl-opac.gif') left  no-repeat;"><a href="/lognavi?name=web&amp;tourl=opac.ndl.go.jp%2farticleid%2f11004319%2fjpn" target="_blank">NDL-OPAC - 国立国会図書館で本をさがす</a></li>
+					
+					
+						<li class="ndlopac" style="background:transparent url('/images/booksbanner.png') left  no-repeat;"><a href="/ncid/AA11964147">CiNii Books - 大学図書館でさがす</a></li>
+					
+					
+				</ul>
+			<div class="floatclear"><hr /></div>
+		</div>
+		
+	</div>
+	
+	
+
+	
+		<div class="sectionofdata">
+		<h2>抄録</h2>
+		
+		
+			
+				<div class="abstract">
+					<p class="abstracttextjpn entry-content">本研究の目的は,海外研修の際に学内SNSを活用することが,研修に参加した学生の学習動機に与える影響を検討することである.学内SNSのコミュニティ機能を使って研修に関する情報交換を行うよう学生を促し,渡航前から帰国後までのコミュニティへのアクセスログを記録した.また海外渡航の前後に,何のために大学で学ぶのかという学習の目的を尋ねる質問紙を実施し,これを学習動機の測定とした.その結果,研修に際して学内SNSを高頻度で活用した者は,低頻度活用者や未使用者に比べて,帰国後に実践的な知識の習得を志向するような学習動機が高くなっていることが示された.</p>
+					<p class="abstracttexten entry-content"></p>
+				</div>
+				
+			
+			
+		
+		</div>
+		
+	
+
+		<div class="sectionofdata">
+			<h2>収録刊行物</h2>
+			<div class="listitem">
+				<dl class="journal_class">
+				<dt>
+				<span class="journal_title">
+				
+					日本教育工学会論文誌
+				
+				
+				</span>&nbsp;
+				
+					
+						<a href="http://ci.nii.ac.jp/vol_issue/nels/AA11964147_ja.html">[巻号一覧]</a>
+					
+				
+				</dt>
+				<dd>
+				
+				<p class="containedjournaldata">
+				<span class="journal_title_en">日本教育工学会論文誌 34(Suppl.), 57-60, 2010-12-20</span>&nbsp;
+				
+				
+					
+						
+							<a href="http://ci.nii.ac.jp/vol_issue/nels/AA11964147/ISS0000466871_ja.html">[この号の目次]</a>
+						
+					
+				
+				</p>
+				<p class="containedjournal_org">
+				<span class="academic_society">
+				
+				日本教育工学会
+				</span>
+				</p>
+				</dd>
+				</dl>
+			
+			</div>
+		
+		</div>
+		
+
+		
+			<div class="sectionofdata">
+				<h2 id="ref">参考文献:&nbsp;
+				
+				
+					
+					
+						7件
+					
+				
+				</h2>
+				
+				
+				
+					
+					<p class="referencetext">参考文献を見るには<a href="https://register-ci.nii.ac.jp/auth/action/login?targetUrl=/naid/110008506678&amp;contentsServer=CINII&amp;USELANG=jp">ログイン</a>が必要です。ユーザIDをお持ちでない方は<a href="https://register-ci.nii.ac.jp/userregist/userTypeSel.do?lang=jp">新規登録</a>してください。</p>
+					
+				
+			</div>
+			
+			
+		
+
+		
+</div>
+	
+</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<div id="side_navigation">
+<div id="relateditem">
+	
+
+		
+		
+		<div id="preview" class="relateditem_section">
+
+		<h2>プレビュー</h2>
+			
+				<p>
+				
+					<a href="/lognavi?name=nels&amp;lang=jp&amp;type=pdf&amp;id=ART0009701806">
+					<img alt="プレビュー" src="/pdfthumbnail/11/1100/110008/110008506678.jpg" />
+					</a>
+				
+				
+				</p>
+			
+			
+		</div>
+		
+		
+	
+
+	
+		<div id="keyword" class="relateditem_section">
+		<h2>キーワード</h2>
+		<ul>
+		
+			
+			
+			<li><a href="/keyword/%E5%AD%A6%E7%BF%92%E5%8B%95%E6%A9%9F" rel="tag">学習動機</a></li>
+			
+			
+			
+			<li><a href="/keyword/SNS" rel="tag">SNS</a></li>
+			
+			
+			
+			<li><a href="/keyword/%E6%B5%B7%E5%A4%96%E7%A0%94%E4%BF%AE" rel="tag">海外研修</a></li>
+			
+			
+			
+			<li><a href="/keyword/%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2" rel="tag">大学教育</a></li>
+			
+			
+			
+			<li><a href="/keyword/%E6%8E%88%E6%A5%AD%E5%AE%9F%E8%B7%B5" rel="tag">授業実践</a></li>
+			
+			
+		
+		
+		</ul>
+		</div>
+		
+	
+
+	<div id="papercodes" class="relateditem_section">
+	<h2>各種コード</h2>
+	<ul>
+		
+			<li><div class="ie_bug_fixer"><dl><dt>NII論文ID(NAID) :</dt><dd>110008506678</dd></dl></div></li>
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>NII書誌ID(NCID) :</dt><dd><a href="/ncid/AA11964147">AA11964147</a></dd></dl></div></li>
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>本文言語コード :</dt><dd>JPN</dd></dl></div></li>
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>資料種別 :</dt>
+			<dd>
+				
+					SHO
+				
+				
+			</dd></dl></div></li>
+		
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>ISSN :</dt><dd>13498290</dd></dl></div></li>
+		
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>NDL 記事登録ID :</dt><dd>11004319</dd></dl></div></li>
+		
+		
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>NDL 雑誌分類 :</dt><dd>ZF1(教育)</dd></dl></div></li>
+		
+		
+			<li><div class="ie_bug_fixer"><dl><dt>NDL 請求記号 :</dt><dd>Z7-904</dd></dl></div></li>
+		
+		
+		
+		
+			
+		
+		
+
+		
+		<li>
+		<div class="ie_bug_fixer">
+			<dl>
+			<dt>収録DB :</dt>
+			<dd>
+			CJP書誌&nbsp;
+			
+			NDL&nbsp;
+			NII-ELS&nbsp;
+			
+			
+			
+			
+			
+			
+			</dd>
+			</dl>
+		</div>
+		</li>
+		
+	</ul>
+	</div>
+	
+
+	<div id="writingformat" class="relateditem_section">
+		<form name="exportarticle" action="/export" method="get">
+			<h2>書き出し</h2>
+			
+			
+			<ul>
+				<li><div class="ie_bug_fixer"><a href="javascript:void(0)" onclick="return doexport(6)">RefWorksに書き出し</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="javascript:void(0)" onclick="return doexport(7)">EndNoteに書き出し</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="http://www.mendeley.com/import/?url=http://ci.nii.ac.jp/naid/110008506678/ja/" target="MendeleyMain">Mendeleyに書き出し</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="/naid/110008506678.bix" target="_blank">Refer/BiblXで表示</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="/naid/110008506678.ris" target="_blank">RISで表示</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="/naid/110008506678.bib" target="_blank">BibTeXで表示</a></div></li>
+				<li><div class="ie_bug_fixer"><a href="/naid/110008506678.tsv" target="_blank">TSVで表示</a></div></li>
+			</ul>
+			
+			<input type="hidden" name="fileType" value=""/>
+			<input type="hidden" name="docSelect" value="110008506678" />
+		</form>
+	</div>
+	
+	
+	<div id="social" class="relateditem_section">
+		<h2>共有</h2>
+		<ul>
+			<li>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-hashtags="CiNii" data-dnt="true">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js?charset=utf8";js.charset="UTF-8";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</li>
+			<li>
+				<div id="fb-root"></div>
+				<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=359135477483189";
+				fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+				
+				<iframe src="http://www.facebook.com/plugins/like.php?locale=ja_JP&amp;href=http%3A%2F%2Fci.nii.ac.jp%2Fnaid%2F110008506678&amp;send=false&amp;layout=button_count&amp;width=160&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=359135477483189" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+			</li>
+		</ul>
+	</div>
+	
+	
+	
+	<div id="itemheading" class="relateditem_section" align="right">
+		<form name="feedbackform" action="/feedback" method="post" target="_blank">
+			<a href="javascript:void(0)" onclick="feedbackform.submit()">問題の指摘</a>
+			<input type="hidden" name="lang" value="ja" />
+			<input type="hidden" name="from" value="3" />
+			<input type="hidden" name="process" value="1" />
+			<input type="hidden" name="id" value="110008506678" />
+		</form>
+	</div>
+	
+	
+	</div>
+	
+</div>
+
+
+	</div>
+	
+	
+
+
+
+
+
+
+</div><!--end of body-wrap-->
+
+<div id="footer">
+	<div id="footer-wrap" class="clearfix">
+
+		<div class="footer-linkblock ftb-left">
+			<ul class="ft-group">
+				<li id="servicestop_information"><p class="ft-heading">CiNiiについて</p>
+					<ul class="ft-list">
+				<li><a href="/info/ja/cinii_outline.html">CiNiiについて</a></li>
+				<li><a href="/info/ja/terms.html">利用規約</a></li>
+				<li><a href="/info/ja/contact.html">お問い合わせ</a></li>
+				<li><a href="http://www.nii.ac.jp/">国立情報学研究所 (NII)</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="footer-linkblock ftb-center">
+
+			<ul class="ft-group">
+				<li><p class="ft-heading">ヘルプ</p>
+					<ul class="ft-list">
+						<li><p><a href="/info/ja/manual_outline.html">CiNii Articles - 日本の論文をさがす</a></p>
+						</li>
+						<li><p><a href="/info/ja/books/manual_outline.html">CiNii Books - 大学図書館の本をさがす</a></p>
+						</li>
+						<li><p><a href="/info/ja/api/api_outline.html">メタデータ・API</a></p>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="ft-group">
+				<li><p class="ft-heading">新着情報</p>
+					<ul class="ft-list">
+						<li><p class="ft-information clearfix"><a href="/info/ja/index.html">お知らせ</a><a href="/info/rss/ja/rss.xml" class="ft-rsslink">RSS</a></p>
+						</li>
+						<li><a href="http://twitter.com/cinii_jp">Twitter</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+
+		<div class="footer-linkblock ftb-right">
+			<ul class="ft-group">
+				<li><p class="ft-heading">NIIのコンテンツサービス</p>
+					<ul class="ft-list">
+						<li><a href="http://kaken.nii.ac.jp/">KAKEN - 科学研究費助成事業データベース</a></li>
+						<li><a href="http://jairo.nii.ac.jp/">JAIRO - 学術機関リポジトリポータル</a></li>
+						<li><a href="http://reo.nii.ac.jp/">NII-REO - 電子リソースリポジトリ</a></li>
+						<li><a href="http://webcatplus.nii.ac.jp/">Webcat Plus - 連想×書棚で広がる本の世界</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+<p id="copyright">Copyright  &copy; 2013 National Institute of Informatics. All Rights Reserved.</p><!--end of p#copyright-->
+</div>
+<!--end of div#footer-->
+
+
+<script type="text/javascript">
+	window.onload = function() {
+		if(navigator.userAgent.indexOf("MSIE") != -1){
+			var windowHeight = document.documentElement.clientHeight;
+		}else{
+			var windowHeight = window.innerHeight;
+		}
+		var bodyWrap = document.getElementById('body-wrap');
+		var bodyWrapHeight = bodyWrap.offsetHeight;
+		var footerHeight = document.getElementById('footer').offsetHeight;
+		if(bodyWrapHeight+footerHeight < windowHeight){
+			bodyWrap.style.height = windowHeight - footerHeight - 60 + 'px';
+		}
+	}
+</script>
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-16015352-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,20 @@
+{
+	"name":"My Lab System",
+	"version":"1.0",
+	"manifest_version":2,
+
+	"description":"system_lab:Webページ登録",
+	"permissions":[
+		"tabs",
+		"http://localhost:8888/*",
+		"http://*/*",
+		"https://*/*"
+	],
+	"background":{
+		"page":"background.html"
+	},
+	"browser_action":{
+		"default_icon":"web.png",
+		"default_title":"syste_lab"
+	}
+}
