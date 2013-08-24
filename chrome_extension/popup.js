@@ -15,8 +15,9 @@ ViewController.prototype = {
 		if(body.firstChild.id != 'web_learning'){
 			body.insertBefore(newDiv,child);
 			setJqueryFadeInOut();
-		}else
-			alert('二度目のクリックです');
+		}else{
+			alert('二度目のクリックやねん。一応ページ登録しとくよ。');
+		}
 	},
 	createNewDiv:function(){
 		var div = document.createElement('div');
@@ -34,7 +35,7 @@ ViewController.prototype = {
 		a.setAttribute('target','_blank');
 		a.setAttribute('style','font-size:20px;');
 		a.onclick = function(){
-			//alert('click');
+
 		}
 		return a;
 	}
@@ -48,18 +49,13 @@ function setStyle(div){
 /*
 	divがスーッと表示されるようにする
 	ブラウザをscrollしたら、スーと消える
-	#TODO:JQuery未実装
+	#TODO:このファイルにはJqueryは読み込まれていないようだ。
+		 :background.jsでは読み込まれているが、ページに反映することはできていない。
 */
 function setJqueryFadeInOut(){
 
-	$(function(){
-		alert(2);		
-		$div = $('#web_learning');
-		$div.fadeIn("slow");
-		$(window).scroll(function(){
-			$div.fadeOut('slow');
-		});
-	});
+
 }
 
 window.PC = new ViewController();
+

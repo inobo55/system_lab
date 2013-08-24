@@ -1,10 +1,13 @@
 <?php
 /*
+	このプログラムは使わない。
+	
 	id(weblearningテーブルのID)をPOSTで渡されるので、
 	それをもとにtagsの中身が空かチェック。
 	pdf_file_table_idの中身が有るかチェック。
 	空かつ有るなら、PDFファイルの場所を特定。
 	abbyy_php_example.phpに渡す。
+
 */
 	require_once 'tool.php';
 

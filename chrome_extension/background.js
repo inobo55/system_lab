@@ -22,10 +22,16 @@ chrome.tabs.onActivated.addListener(function(activeInfo){
 });
 
 var CheckUrlController = function(taburl){
+	
 	this.url = taburl;
 	this.address_url = "http://localhost:8888/chrome/system_lab/API/check_same_url.php";
 	this.sendRequest_();
 };
+
+chrome.tabs.executeScript(null, {
+	//空白を作るとアウト/codeでもjQueryは使えない
+    "code": "$(function(){$('div').hide(2000);});"
+});
 
 CheckUrlController.prototype = {
 	url:null,
@@ -70,8 +76,8 @@ function changeIcon(mode){
 //アイコンクリックしたら処理する
 chrome.browserAction.onClicked.addListener(function(tab){
 	chrome.tabs.captureVisibleTab(null, function(dataUrl){
-		var img = document.getElementById('img');
-		img.src = dataUrl;
+		//var img = document.getElementById('img');
+		//img.src = dataUrl;
 		window.PC = new BackgroundController(tab,dataUrl);
 	});
 });
@@ -132,4 +138,7 @@ function createPostData(array){
 
 function callbackPopupJs(){
 	chrome.tabs.executeScript(null,{file:"popup.js"});
+	
 }
+
+
