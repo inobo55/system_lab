@@ -5,6 +5,7 @@
  * https://github.com/odoku/MeCab-for-PHP5/blob/master/MeCab.php
  * php_mecabをextensionとしてインストールするのはあきらめた。
  * これでなんとかなるっしょ。
+ * １回の解析で扱える文字数は3000文字ぐらいっぽい。
  */
 
 /**
