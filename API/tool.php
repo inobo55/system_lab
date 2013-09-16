@@ -137,6 +137,11 @@ class DATABASE{
 		return $result;
 	}
 
+	public function getFavTagsSQL(){
+		$sql = "SELECT * FROM  `weblearning` WHERE  `favorite` = 'true' AND  `tags` IS NOT NULL ";
+		return $sql;
+	}
+
 	// $POSTの中からurl補完
 	// http://ci.nii.ac.jp/els/110002937669.pdf?id=ART0003289472&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1374339184&cp=
 	// &が区切りで、それ以降の文字が無くなる
@@ -914,7 +919,7 @@ class SearchAPI{
 		$data_ja = $this->extractData($resp_ja);
 		$data_en = $this->extractData($resp_en);
 		$datas = $data_ja . $data_en;
-		$this->setData($datas);
+		$this->setDatas($datas);
 	}
 
 	private function getJaUrl($q){

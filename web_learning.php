@@ -49,8 +49,10 @@
 		<ul>
 			<li><a id= 'a-tab1' href='#tabs-1'>閲覧履歴</a></li>
 			<li><a id= 'a-tab2' href='#tabs-2'>お気に入り</a></li>			
+<!--
 			<li><a id= 'a-tab3' href='#tabs-3'>学習コンテンツを作る</a></li>
 			<li><a id= 'a-tab4' href='#tabs-4'>今までの学習コンテンツ</a></li>
+-->			
 		</ul>
 		<div id='tabs-1'>
 			<div id='history_contents'>
@@ -62,16 +64,18 @@
 				<!-- web_learning.jsで中身を埋めてる -->
 			</div>
 		</div>
+<!--		
 		<div id='tabs-3'>
 			<div id='learning_contents'>
 				<?php  $view->displayDbData("learning"); ?>
-			</div><!--/learning_contents-->
+			</div>
 		</div>
 		<div id='tabs-4'>
 			<div id='learned_contents'>
 				
-			</div><!--/learned_contents-->
-		</div>		
+			</div>
+		</div>	
+-->			
 	</div><!--/tabs-->
 	
 </body>
